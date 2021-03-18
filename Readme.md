@@ -1,6 +1,6 @@
 # youtube_visualization
 
-## youtube_isualization_project
+## youtube_visualization_project
 
 유투브 영상 제목을 단어별로 분석하여 어떤 제목을 써야 조회수가 많이 나오는지 분석한 시각화 프로젝트
 
