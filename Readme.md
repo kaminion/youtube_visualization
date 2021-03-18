@@ -5,8 +5,10 @@
 유투브 영상 제목을 단어별로 분석하여 어떤 제목을 써야 조회수가 많이 나오는지 분석한 시각화 프로젝트
 
 <p align="center">
-    <img src="https://github.com/kaminion/youtube_visualization/blob/master/data/bar_plot.png"/>
-    <img src="https://github.com/kaminion/youtube_visualization/blob/master/data/word_cloud.png"/>
+    <img src="https://github.com/kaminion/youtube_visualization/blob/master/data/bar_plot.png"
+    width="300"/>
+    <img src="https://github.com/kaminion/youtube_visualization/blob/master/data/word_cloud.png"
+    width="300"/>
 </p>
 
 ## 설명
