@@ -4,10 +4,10 @@
 
 유투브 영상 제목을 단어별로 분석하여 어떤 제목을 써야 조회수가 많이 나오는지 분석한 시각화 프로젝트
 
-<div style="display:flex">
+<p align="center">
     <img src="https://github.com/kaminion/youtube_visualization/blob/master/data/bar_plot.png"/>
     <img src="https://github.com/kaminion/youtube_visualization/blob/master/data/word_cloud.png"/>
-</div>
+</p>
 
 ## 설명
 - 이 애플리케이션은 유투브 제목을 분석한 애플리케이션이고, soynlp의 tokenizer를 사용하였으며, wordcloud로 시각화하였습니다.
